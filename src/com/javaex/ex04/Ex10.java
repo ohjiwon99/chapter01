@@ -1,4 +1,4 @@
-package com.javaex.re04;
+package com.javaex.ex04;
 
 import java.util.Scanner;
 

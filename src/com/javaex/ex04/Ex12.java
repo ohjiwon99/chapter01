@@ -1,4 +1,4 @@
-package com.javaex.re04;
+package com.javaex.ex04;
 
 public class Ex12 {
 
